@@ -1,0 +1,2 @@
+module email_app {
+}
